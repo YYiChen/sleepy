@@ -214,5 +214,27 @@
     "created_at": "2026-09-07T09:55:23Z",
     "updated_at": "2026-09-07T09:55:23Z",
     "closed_at": null
+  },
+  {
+    "number": 39,
+    "title": "[Feature]: 课表导入操作优化",
+    "state": "OPEN",
+    "author": "dark-knifes",
+    "labels": [
+      "enhancement"
+    ],
+    "comments": 1,
+    "createdAt": "2026-09-14T15:42:48Z",
+    "url": "https://github.com/lingion/sleepy/issues/39"
+  },
+  {
+    "number": 40,
+    "title": "[Feature]: 时间表独立",
+    "state": "OPEN",
+    "author": "dark-knifes",
+    "labels": [],
+    "comments": 2,
+    "createdAt": "2026-09-14T15:45:56Z",
+    "url": "https://github.com/lingion/sleepy/issues/40"
   }
 ]
