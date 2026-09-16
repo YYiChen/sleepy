@@ -1,4 +1,4 @@
-# [Bug]: 东北大学教务系统无法导入\n\n- Number: #27\n- State: open\n- Author: jim139129\n- Created: 2026-09-07T09:10:47Z\n- Updated: 2026-09-07T09:10:47Z\n- URL: https://github.com/lingion/sleepy/issues/27\n\n## Body\n\n### Prerequisites
+# [Bug]: 东北大学教务系统无法导入\n\n- Number: #27\n- State: open\n- Author: jim139129\n- Created: 2026-09-07T09:10:47Z\n- Updated: 2026-09-09T00:44:41Z\n- URL: https://github.com/lingion/sleepy/issues/27\n\n## Body\n\n### Prerequisites
 
 - [x] I am using the latest version of Sleepy
 - [x] I have searched existing issues and found no duplicate
@@ -35,4 +35,9 @@ https://github.com/CreamPig233/neu_wisedu2wakeup
 ```markdown
 
 ```
-\n\n## Comments\n\n(no comments)
+\n\n## Comments\n\n### lingion — 2026-09-09T00:44:41Z\n\n导入这条修好了,改动就是你的 PR #29,已合入并随 v1.0.52 发布:https://github.com/lingion/sleepy/releases/tag/v1.0.52
+
+课表提取换成金智新版的移动接口:先取当前学期和校区,再提交课表详情请求拿 arrangedList 解析。这套方案是你真机验证过的,装这版应该就能正常导入。
+
+另外你提的红色错误提示不退出页面不消失的问题,这版没动,单独记着,后面排查。
+

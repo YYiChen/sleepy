@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "url": "https://api.github.com/repos/lingion/sleepy/issues/comments/5594010396",
+    "html_url": "https://github.com/lingion/sleepy/issues/27#issuecomment-5594010396",
+    "issue_url": "https://api.github.com/repos/lingion/sleepy/issues/27",
+    "id": 5594010396,
+    "node_id": "IC_kwDOS8keYs8AAAABTW3THA",
+    "user": {
+      "login": "lingion",
+      "id": 165679819,
+      "node_id": "U_kgDOCeASyw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165679819?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lingion",
+      "html_url": "https://github.com/lingion",
+      "followers_url": "https://api.github.com/users/lingion/followers",
+      "following_url": "https://api.github.com/users/lingion/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lingion/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lingion/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lingion/subscriptions",
+      "organizations_url": "https://api.github.com/users/lingion/orgs",
+      "repos_url": "https://api.github.com/users/lingion/repos",
+      "events_url": "https://api.github.com/users/lingion/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lingion/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "created_at": "2026-09-09T00:44:41Z",
+    "updated_at": "2026-09-09T00:44:41Z",
+    "body": "导入这条修好了,改动就是你的 PR #29,已合入并随 v1.0.52 发布:https://github.com/lingion/sleepy/releases/tag/v1.0.52\n\n课表提取换成金智新版的移动接口:先取当前学期和校区,再提交课表详情请求拿 arrangedList 解析。这套方案是你真机验证过的,装这版应该就能正常导入。\n\n另外你提的红色错误提示不退出页面不消失的问题,这版没动,单独记着,后面排查。\n",
+    "author_association": "OWNER",
+    "pin": null,
+    "reactions": {
+      "url": "https://api.github.com/repos/lingion/sleepy/issues/comments/5594010396/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null,
+    "minimized": null
+  }
+]

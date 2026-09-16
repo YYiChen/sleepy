@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "url": "https://api.github.com/repos/lingion/sleepy/issues/comments/5634411556",
+    "html_url": "https://github.com/lingion/sleepy/issues/25#issuecomment-5634411556",
+    "issue_url": "https://api.github.com/repos/lingion/sleepy/issues/25",
+    "id": 5634411556,
+    "node_id": "IC_kwDOS8keYs8AAAABT9ZMJA",
+    "user": {
+      "login": "lingion",
+      "id": 165679819,
+      "node_id": "U_kgDOCeASyw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165679819?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lingion",
+      "html_url": "https://github.com/lingion",
+      "followers_url": "https://api.github.com/users/lingion/followers",
+      "following_url": "https://api.github.com/users/lingion/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lingion/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lingion/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lingion/subscriptions",
+      "organizations_url": "https://api.github.com/users/lingion/orgs",
+      "repos_url": "https://api.github.com/users/lingion/repos",
+      "events_url": "https://api.github.com/users/lingion/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lingion/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "created_at": "2026-09-11T12:26:10Z",
+    "updated_at": "2026-09-11T12:26:10Z",
+    "body": "合肥工业大学已适配,随 [v1.0.53](https://github.com/lingion/sleepy/releases/tag/v1.0.53) 发布,搜索框直接输学校名或教务网址即可。\n\n你那份采集包用上了:报上来的 one.hfut.edu.cn 门户地址之前会被当成自建教务直抓,抓回来 0 门课。现在带门户网址会自动落到合工大的正式教务入口(jxglstu.hfut.edu.cn 的 EAMS5)按正确协议提取。感谢采集包,省了来回猜协议的时间。",
+    "author_association": "OWNER",
+    "pin": null,
+    "reactions": {
+      "url": "https://api.github.com/repos/lingion/sleepy/issues/comments/5634411556/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null,
+    "minimized": null
+  }
+]

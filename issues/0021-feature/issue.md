@@ -1,4 +1,4 @@
-# [Feature]: 小组件增加多重尺寸\n\n- Number: #21\n- State: open\n- Author: dark-knifes\n- Created: 2026-09-06T20:48:53Z\n- Updated: 2026-09-07T00:13:31Z\n- URL: https://github.com/lingion/sleepy/issues/21\n\n## Body\n\n### Prerequisites
+# [Feature]: 小组件增加多重尺寸\n\n- Number: #21\n- State: closed\n- Author: dark-knifes\n- Created: 2026-09-06T20:48:53Z\n- Updated: 2026-09-14T15:26:57Z\n- URL: https://github.com/lingion/sleepy/issues/21\n\n## Body\n\n### Prerequisites
 
 - [x] I have searched existing issues and found no duplicate
 - [x] I have confirmed this feature is not already in the latest release
@@ -26,4 +26,5 @@ _No response_
 ```
 \n\n## Comments\n\n### lingion — 2026-09-07T00:13:31Z\n\n感谢你把小组件的实际表现写清楚了：最近两天课程从 4×3 压到 4×2 时字体会被压扁，关闭 vivo 的小组件优化后又会被裁剪。4×2 确实是一个很实际的尺寸需求。
 
-我会处理多尺寸适配，争取在接下来的两个版本内修好。
+我会处理多尺寸适配，争取在接下来的两个版本内修好。\n\n### lingion — 2026-09-14T15:07:00Z\n\nv1.0.55 已扩展:今日/最近两天/本周列表/周视图/网格五种形态,各有小、常规两档,今日/最近两天/本周列表另有矮而宽的宽档,共 13 档可添加;且每档按自身尺寸定死绘制,拖拽不再拉伸变形。麻烦更新后看看想要的尺寸覆盖到了没有。
+\n\n### dark-knifes — 2026-09-14T15:26:57Z\n\n已解决

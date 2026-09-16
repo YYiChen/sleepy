@@ -1,4 +1,4 @@
-# 求适配浙大宁波理工学院，正方教务\n\n- Number: #11\n- State: open\n- Author: L61400\n- Created: 2026-09-02T17:25:40Z\n- Updated: 2026-09-06T13:38:36Z\n- URL: https://github.com/lingion/sleepy/issues/11\n\n## Body\n\n### Prerequisites
+# 求适配浙大宁波理工学院，正方教务\n\n- Number: #11\n- State: closed\n- Author: L61400\n- Created: 2026-09-02T17:25:40Z\n- Updated: 2026-09-09T00:37:48Z\n- URL: https://github.com/lingion/sleepy/issues/11\n\n## Body\n\n### Prerequisites
 
 - [x] I have searched existing issues and found no duplicate
 - [x] I have confirmed this feature is not already in the latest release

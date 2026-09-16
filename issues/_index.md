@@ -1,4 +1,4 @@
-# GitHub issue archive: lingion/sleepy\n\nGenerated: 2026-09-07T15:49:23Z\n\n- [#1 请求适配江苏海洋大学](https://github.com/lingion/sleepy/issues/1) — closed — 2026-09-01T08:45:33Z
+# GitHub issue archive: lingion/sleepy\n\nGenerated: 2026-09-16T05:50:38Z\n\n- [#1 请求适配江苏海洋大学](https://github.com/lingion/sleepy/issues/1) — closed — 2026-09-01T08:45:33Z
 - [#4 适配OPPO流体云](https://github.com/lingion/sleepy/issues/4) — closed — 2026-08-29T17:20:50Z
 - [#5 请求适配临沂大学](https://github.com/lingion/sleepy/issues/5) — closed — 2026-08-31T13:08:05Z
 - [#6 无法通过HTML表格导入课表](https://github.com/lingion/sleepy/issues/6) — closed — 2026-08-31T13:07:58Z
@@ -6,20 +6,31 @@
 - [#8 [Feature]: 自定义课表网络视图课程胶囊大小与字号](https://github.com/lingion/sleepy/issues/8) — closed — 2026-09-01T15:34:55Z
 - [#9 [Bug]: 可以设置超过最大节次的课程](https://github.com/lingion/sleepy/issues/9) — closed — 2026-09-01T15:35:03Z
 - [#10 [Feature]: 网络视图中冲突课程处理](https://github.com/lingion/sleepy/issues/10) — closed — 2026-09-04T08:11:51Z
-- [#11 求适配浙大宁波理工学院，正方教务](https://github.com/lingion/sleepy/issues/11) — open — 2026-09-06T13:38:36Z
+- [#11 求适配浙大宁波理工学院，正方教务](https://github.com/lingion/sleepy/issues/11) — closed — 2026-09-09T00:37:48Z
 - [#12 [Bug]: 课表管理页面上下存在白边](https://github.com/lingion/sleepy/issues/12) — closed — 2026-09-04T08:12:20Z
 - [#14 [Bug]: 无法登入教务](https://github.com/lingion/sleepy/issues/14) — closed — 2026-09-05T16:57:00Z
 - [#15 [Adapt]: 采集](https://github.com/lingion/sleepy/issues/15) — closed — 2026-09-05T16:56:49Z
 - [#17 [Sleepy] ](https://github.com/lingion/sleepy/issues/17) — open — 2026-09-06T13:35:43Z
-- [#18 [Adapt]: 求适配中国科学院大学](https://github.com/lingion/sleepy/issues/18) — open — 2026-09-07T14:41:33Z
-- [#19 [Adapt]: 求适配北京交通大学](https://github.com/lingion/sleepy/issues/19) — closed — 2026-09-06T16:08:25Z
+- [#18 [Adapt]: 求适配中国科学院大学](https://github.com/lingion/sleepy/issues/18) — closed — 2026-09-15T03:06:25Z
+- [#19 [Adapt]: 求适配北京交通大学](https://github.com/lingion/sleepy/issues/19) — closed — 2026-09-11T13:56:21Z
 - [#20 解析课程名称自动区分理论课/实验实践课](https://github.com/lingion/sleepy/issues/20) — open — 2026-09-07T02:01:45Z
-- [#21 [Feature]: 小组件增加多重尺寸](https://github.com/lingion/sleepy/issues/21) — open — 2026-09-07T00:13:31Z
-- [#22 [Bug]: 正方教务同名称课程不同地点导入时错误](https://github.com/lingion/sleepy/issues/22) — open — 2026-09-07T00:13:30Z
-- [#23 [Feature]: 适配不同时长的课长，课程节数优化](https://github.com/lingion/sleepy/issues/23) — open — 2026-09-07T00:13:29Z
-- [#24 [Feature]:more](https://github.com/lingion/sleepy/issues/24) — open — 2026-09-07T03:34:38Z
-- [#25 [Adapt]: 求适配学校](https://github.com/lingion/sleepy/issues/25) — open — 2026-09-07T04:27:01Z
-- [#26 [Feature]: 支持课程别名/简写](https://github.com/lingion/sleepy/issues/26) — open — 2026-09-07T09:07:39Z
-- [#27 [Bug]: 东北大学教务系统无法导入](https://github.com/lingion/sleepy/issues/27) — open — 2026-09-07T09:10:47Z
-- [#28 [Bug]: ics导入节次混乱](https://github.com/lingion/sleepy/issues/28) — open — 2026-09-07T09:55:23Z
-- [#39 [Feature]: 课表导入操作优化](https://github.com/lingion/sleepy/issues/39) — open — 2026-09-14T15:42:48Z
+- [#21 [Feature]: 小组件增加多重尺寸](https://github.com/lingion/sleepy/issues/21) — closed — 2026-09-14T15:26:57Z
+- [#22 [Bug]: 正方教务同名称课程不同地点导入时错误](https://github.com/lingion/sleepy/issues/22) — closed — 2026-09-09T04:51:13Z
+- [#23 [Reopen][Feature]: 适配不同时长的课长，课程节数优化](https://github.com/lingion/sleepy/issues/23) — open — 2026-09-14T16:29:17Z
+- [#24 [Feature]:more](https://github.com/lingion/sleepy/issues/24) — open — 2026-09-14T23:39:24Z
+- [#25 [Adapt]: 求适配学校](https://github.com/lingion/sleepy/issues/25) — open — 2026-09-11T12:26:11Z
+- [#26 [Feature]: 支持课程别名/简写](https://github.com/lingion/sleepy/issues/26) — closed — 2026-09-13T04:48:41Z
+- [#27 [Bug]: 东北大学教务系统无法导入](https://github.com/lingion/sleepy/issues/27) — open — 2026-09-09T00:44:41Z
+- [#28 [Bug]: ics导入节次混乱](https://github.com/lingion/sleepy/issues/28) — closed — 2026-09-15T03:41:54Z
+- [#31 [Bug]: 荣耀手机无法添加桌面小组件](https://github.com/lingion/sleepy/issues/31) — open — 2026-09-14T15:06:56Z
+- [#32 [bug] 非常规时间段课程冲突判定异常](https://github.com/lingion/sleepy/issues/32) — open — 2026-09-14T17:33:25Z
+- [#34 [Bug]: 小组件显示错误](https://github.com/lingion/sleepy/issues/34) — closed — 2026-09-14T15:26:19Z
+- [#35 [Bug]: 温州医科大学教务网址错误](https://github.com/lingion/sleepy/issues/35) — closed — 2026-09-14T15:24:33Z
+- [#37 [Bug]: 小组件中非标准时间课程冲突判断异常](https://github.com/lingion/sleepy/issues/37) — closed — 2026-09-14T17:31:56Z
+- [#38 [Feature]: 小组件随时间隐藏过时科目](https://github.com/lingion/sleepy/issues/38) — open — 2026-09-14T15:37:23Z
+- [#39 [Feature]: 课表导入操作优化](https://github.com/lingion/sleepy/issues/39) — open — 2026-09-14T16:16:10Z
+- [#40 [Feature]: 时间表独立](https://github.com/lingion/sleepy/issues/40) — open — 2026-09-14T16:28:15Z
+- [#41 [Feature]: 希望每门课程支持多个教室](https://github.com/lingion/sleepy/issues/41) — closed — 2026-09-15T01:03:32Z
+- [#42 [Feature]: 课表视图自适应高度与空晚间节次收起](https://github.com/lingion/sleepy/issues/42) — open — 2026-09-15T08:46:02Z
+- [#44 [Feature]: 调休日课程正常显示](https://github.com/lingion/sleepy/issues/44) — open — 2026-09-15T15:30:54Z
+- [#45 [Feature]: 添加Material Design 3 Expressive完整特性](https://github.com/lingion/sleepy/issues/45) — open — 2026-09-15T15:34:57Z
