@@ -22,3 +22,4 @@
 - [#26 [Feature]: 支持课程别名/简写](https://github.com/lingion/sleepy/issues/26) — open — 2026-09-07T09:07:39Z
 - [#27 [Bug]: 东北大学教务系统无法导入](https://github.com/lingion/sleepy/issues/27) — open — 2026-09-07T09:10:47Z
 - [#28 [Bug]: ics导入节次混乱](https://github.com/lingion/sleepy/issues/28) — open — 2026-09-07T09:55:23Z
+- [#39 [Feature]: 课表导入操作优化](https://github.com/lingion/sleepy/issues/39) — open — 2026-09-14T15:42:48Z
